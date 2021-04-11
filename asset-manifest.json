@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cinemeye-movie-app-clone/static/css/main.bd4c990e.chunk.css",
+    "main.js": "/Cinemeye-movie-app-clone/static/js/main.216d22cf.chunk.js",
+    "main.js.map": "/Cinemeye-movie-app-clone/static/js/main.216d22cf.chunk.js.map",
+    "runtime-main.js": "/Cinemeye-movie-app-clone/static/js/runtime-main.afd7f646.js",
+    "runtime-main.js.map": "/Cinemeye-movie-app-clone/static/js/runtime-main.afd7f646.js.map",
+    "static/js/2.e3a914ce.chunk.js": "/Cinemeye-movie-app-clone/static/js/2.e3a914ce.chunk.js",
+    "static/js/2.e3a914ce.chunk.js.map": "/Cinemeye-movie-app-clone/static/js/2.e3a914ce.chunk.js.map",
+    "index.html": "/Cinemeye-movie-app-clone/index.html",
+    "precache-manifest.c6ab5ec830575053d6d2ea1beb1c0082.js": "/Cinemeye-movie-app-clone/precache-manifest.c6ab5ec830575053d6d2ea1beb1c0082.js",
+    "service-worker.js": "/Cinemeye-movie-app-clone/service-worker.js",
+    "static/css/main.bd4c990e.chunk.css.map": "/Cinemeye-movie-app-clone/static/css/main.bd4c990e.chunk.css.map",
+    "static/js/2.e3a914ce.chunk.js.LICENSE.txt": "/Cinemeye-movie-app-clone/static/js/2.e3a914ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afd7f646.js",
+    "static/js/2.e3a914ce.chunk.js",
+    "static/css/main.bd4c990e.chunk.css",
+    "static/js/main.216d22cf.chunk.js"
+  ]
+}
